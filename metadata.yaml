@@ -20,5 +20,7 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: Scientific American Architects and Builders Edition, No. 26, Dec, 1887
 url: http://www.gutenberg.org/ebooks/50927
